@@ -1,4 +1,4 @@
-[![SSE CI/CD](https://github.com/LitschiW/automation-exercise-wt2223/actions/workflows/workflow_exercise.yml/badge.svg)](https://github.com/LitschiW/automation-exercise-wt2223/actions/workflows/workflow_exercise.yml)
+[![SSE CI/CD](https://github.com/LitschiW/automation-exercise-wt2223/actions/workflows/workflow_exercise.yml/badge.svg?branch=main)](https://github.com/LitschiW/automation-exercise-wt2223/actions/workflows/workflow_exercise.yml)
 # Automation Exercise
 
 This repository contains some example Python code from the [Simulation Software Engineering](simulation-software-engineering.github.io/homepage/) lecture. It is used for setting up automation workflows (CI) in GitHub and GitLab. For more information please check out the [exercise sheet](https://github.com/Simulation-Software-Engineering/Lecture-Material/tree/main/05_testing_and_ci/automation_exercise.md). The code is a slightly modified version of the [code used in the Python testing exercise](https://github.com/Simulation-Software-Engineering/testing-python-exercise-wt2223).
